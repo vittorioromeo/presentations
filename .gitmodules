@@ -19,3 +19,6 @@
 [submodule "cppcon2014"]
 	path = cppcon2014
 	url = https://github.com/SuperV1234/cppcon2014
+[submodule "cppnow2015"]
+	path = cppnow2015
+	url = https://github.com/SuperV1234/cppnow2015
