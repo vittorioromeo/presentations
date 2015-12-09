@@ -1,0 +1,21 @@
+[submodule "meetingcpp2015"]
+	path = meetingcpp2015
+	url = https://github.com/SuperV1234/meetingcpp2015
+[submodule "cppcon2015"]
+	path = cppcon2015
+	url = https://github.com/SuperV1234/cppcon2015
+[submodule "linuxDay2013"]
+	path = linuxDay2013
+	url = https://github.com/SuperV1234/linuxDay2013
+[submodule "itcpp2015"]
+	path = itcpp2015
+	url = git://github.com/SuperV1234/itcpp2015
+[submodule "Tutorials"]
+	path = Tutorials
+	url = git://github.com/SuperV1234/Tutorials
+[submodule "linuxDay2014"]
+	path = linuxDay2014
+	url = https://github.com/SuperV1234/linuxDay2014
+[submodule "cppcon2014"]
+	path = cppcon2014
+	url = https://github.com/SuperV1234/cppcon2014
