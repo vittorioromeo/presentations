@@ -22,3 +22,6 @@
 [submodule "cppnow2015"]
 	path = cppnow2015
 	url = https://github.com/SuperV1234/cppnow2015
+[submodule "cppnow2016"]
+	path = cppnow2016
+	url = https://github.com/SuperV1234/cppnow2016
