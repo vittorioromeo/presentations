@@ -31,3 +31,6 @@
 [submodule "meetingcpp2016"]
 	path = meetingcpp2016
 	url = https://github.com/SuperV1234/meetingcpp2016
+[submodule "cpplondon"]
+	path = cpplondon
+	url = https://github.com/SuperV1234/cpplondon
