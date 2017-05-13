@@ -37,3 +37,6 @@
 [submodule "accu2017"]
 	path = accu2017
 	url = https://github.com/SuperV1234/accu2017
+[submodule "cppnow2017"]
+	path = cppnow2017
+	url = https://github.com/SuperV1234/cppnow2017.git
