@@ -43,3 +43,6 @@
 [submodule "meetingcpp2017"]
 	path = meetingcpp2017
 	url = https://github.com/SuperV1234/meetingcpp2017.git
+[submodule "accu2018"]
+	path = accu2018
+	url = https://github.com/SuperV1234/accu2018.git
