@@ -49,3 +49,6 @@
 [submodule "itcpp2018"]
 	path = itcpp2018
 	url = https://github.com/SuperV1234/itcpp2018.git
+[submodule "cppnow2018"]
+	path = cppnow2018
+	url = https://github.com/SuperV1234/cppnow2018
