@@ -52,3 +52,6 @@
 [submodule "cppnow2018"]
 	path = cppnow2018
 	url = https://github.com/SuperV1234/cppnow2018
+[submodule "cpponsea2019"]
+	path = cpponsea2019
+	url = https://github.com/SuperV1234/cpponsea2019
