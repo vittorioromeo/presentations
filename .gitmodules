@@ -55,3 +55,6 @@
 [submodule "cpponsea2019"]
 	path = cpponsea2019
 	url = https://github.com/SuperV1234/cpponsea2019
+[submodule "accu2019"]
+	path = accu2019
+	url = https://github.com/SuperV1234/accu2019.git
