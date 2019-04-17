@@ -58,3 +58,6 @@
 [submodule "accu2019"]
 	path = accu2019
 	url = https://github.com/SuperV1234/accu2019.git
+[submodule "cpprussia2019"]
+	path = cpprussia2019
+	url = https://github.com/SuperV1234/cpprussia2019.git
