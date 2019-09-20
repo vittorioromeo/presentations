@@ -64,3 +64,6 @@
 [submodule "cppnow2019"]
 	path = cppnow2019
 	url = https://github.com/SuperV1234/cppnow2019.git
+[submodule "cppcon2019"]
+	path = cppcon2019
+	url = https://github.com/SuperV1234/cppcon2019
