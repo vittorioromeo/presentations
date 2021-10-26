@@ -67,3 +67,15 @@
 [submodule "cppcon2019"]
 	path = cppcon2019
 	url = https://github.com/SuperV1234/cppcon2019
+[submodule "cppcon2021"]
+	path = cppcon2021
+	url = https://github.com/SuperV1234/cppcon2021
+[submodule "cppnow2021"]
+	path = cppnow2021
+	url = https://github.com/SuperV1234/cppnow2021
+[submodule "accu2021"]
+	path = accu2021
+	url = https://github.com/SuperV1234/accu2021
+[submodule "ndctechtown2020"]
+	path = ndctechtown2020
+	url = https://github.com/SuperV1234/ndctechtown2020
