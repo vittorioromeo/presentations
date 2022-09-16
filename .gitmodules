@@ -79,3 +79,12 @@
 [submodule "ndctechtown2020"]
 	path = ndctechtown2020
 	url = https://github.com/SuperV1234/ndctechtown2020
+[submodule "accu2022"]
+	path = accu2022
+	url = https://github.com/vittorioromeo/accu2022
+[submodule "corecpp2022"]
+	path = corecpp2022
+	url = https://github.com/vittorioromeo/corecpp2022
+[submodule "cppcon2022"]
+	path = cppcon2022
+	url = https://github.com/vittorioromeo/cppcon2022
